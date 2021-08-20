@@ -8,11 +8,9 @@
                 <div align="center">
                     <h1>Hello</h1>
 
-                    <p>If you add the disabled attribute to a button tag, Internet
-                        Explorer 9 and below will render text gray with a nasty text-shadow
-                        that we cannot fix.
+                    <p>My name is Teodora Barburiceanu and this is my Devops project!
                     </p>
-                    <a class="btn btn-default">Watch now!</a>
+                    <a class="btn btn-default">Learn more about it!</a>
                     <a class="btn btn-info">Tweet it!</a>
                 </div>
             </div>
@@ -21,7 +19,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3><a href="#">$500 Gaming PC Build</a></h3>
+                    <h3><a href="#">More about me</a></h3>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
@@ -36,7 +34,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <h3><a href="#">$500 Gaming PC Build</a></h3>
+                    <h3><a href="#">About this project</a></h3>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
@@ -51,7 +49,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <h3><a href="#">$500 Gaming PC Build</a></h3>
+                    <h3><a href="#">What I learned</a></h3>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
@@ -66,7 +64,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <h3><a href="#">$500 Gaming PC Build</a></h3>
+                    <h3><a href="#">What challenges I encountered</a></h3>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
