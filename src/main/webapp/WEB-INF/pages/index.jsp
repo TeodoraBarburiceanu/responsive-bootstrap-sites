@@ -12,7 +12,7 @@
                     </p>
                     <a href="blog" class="btn btn-default">Learn more about it!</a>
                
-                    <a class="btn btn-info">Tweet it!</a>
+                    <a href="https://github.com/TeodoraBarburiceanu/responsive-bootstrap-sites.git" class="btn btn-info">Fork it on GitHub!</a>
                 </div>
             </div>
         </div>
