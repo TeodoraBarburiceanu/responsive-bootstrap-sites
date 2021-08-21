@@ -22,13 +22,13 @@
                     <h3><a href="#">More about me</a></h3>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                        sodales id vehicula quis, hendrerit id nisl. Praesent dictum sem eu eros
-                        accumsan semper. Suspendisse in odio congue, ultricies nunc et, scelerisque nisi.
-                        Donec ac mauris ex. Etiam nulla lorem, hendrerit at lacinia ornare, vulputate
-                        ac felis. Ut congue, elit a dictum gravida, est metus congue mauris, sit amet
-                        semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
-                        et cursus nisi dapibus.
+                       My name is Barburiceanu Teodora Bianca, I am student at the Technical University of Cluj- Napoca,
+                       specialization Electronics, Telecommunications and Information Technology, English section, in the 3rd year.
+                       I was very excited to participate to this internship at Porsche Engineering Cluj-Napoca because 
+                       I was looking forward to learn new things about Devops and to understand better how things are actually done in 
+                       a company. Learning new things is always a pleasure for me,and the fact that I can also  put into practice the theoretical
+                       notions that I learned increases my confidence.
+                        
                     </p>
                     <a href="#">Read More</a>
                 </div>
