@@ -28,8 +28,8 @@
                         <li><a href="https://www.atlassian.com/git/glossary">Git Commands</a></li>
                     </ul>
                 </li>
-                
-                <li><a href="#contact" data-toggle="modal">Contact</a></li>
+                 <li><a href="contact">Contact</a></li>
+                </li>
             </ul>
         </div>
     </div>
