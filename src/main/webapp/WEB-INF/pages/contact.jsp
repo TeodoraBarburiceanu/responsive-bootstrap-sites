@@ -13,4 +13,7 @@ Tel:0724853411
 E-mail:barburiceanuteodora@yahoo.com
 </p>
 </div>
+        
+  </tiles:putAttribute>
+</tiles:insertDefinition>
 
