@@ -10,7 +10,7 @@
                         <div class="panel-body">
                             <div class="page-header">
                                 <h3>More about this project
-                                    <small>Posted on July 26th</small>
+                                    <small>created by Barburiceanu Teodora</small>
                                 </h3>
                             </div>
 
