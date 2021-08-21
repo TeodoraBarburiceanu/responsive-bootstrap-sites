@@ -6,7 +6,7 @@
             <form class="form-horizontal">
 
                 <div class="modal-header">
-                    <p>Contact Tech Site</p>
+                    <p>Contact me</p>
                 </div>
 
                 <div class="modal-body">
@@ -22,22 +22,22 @@
                         <label for="contact-email" class="col-lg-2 control-label">Email</label>
 
                         <div class="col-lg-10">
-                            <input type="email" class="form-control" id="contact-email" placeholder="you@example.com"/>
+                            <p>barburiceanuteodora@yahoo.com</p>
                         </div>
                     </div>
 
                     <div class="form-group">
-                        <label for="contact-message" class="col-lg-2 control-label">Message</label>
+                        <label for="contact-message" class="col-lg-2 control-label">Phone</label>
 
                         <div class="col-lg-10">
-                            <textarea id="contact-message" class="form-control" rows="7"></textarea>
+                            <p>0724853411</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="modal-footer">
                     <a class="btn btn-default" data-dismiss="modal">Close</a>
-                    <button class="btn btn-primary" type="submit">Submit</button>
+                   
                 </div>
 
             </form>
