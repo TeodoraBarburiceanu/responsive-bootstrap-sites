@@ -30,7 +30,7 @@
                        notions that I learned increases my confidence.
                         
                     </p>
-                    <a href="#">Read More</a>
+                    <a href="blog">Read More</a>
                 </div>
 
                 <div class="col-md-3">
