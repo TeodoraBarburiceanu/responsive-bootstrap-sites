@@ -14,7 +14,7 @@
                         <label for="contact-name" class="col-lg-2 control-label">Name</label>
 
                         <div class="col-lg-10">
-                            <input type="text" class="form-control" id="contact-name" placeholder="Full name"/>
+                            <p>Barburiceanu Teodora</p>
                         </div>
                     </div>
 
