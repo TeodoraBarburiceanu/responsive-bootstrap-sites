@@ -10,7 +10,8 @@
 
                     <p>My name is Teodora Barburiceanu and this is my Devops project!
                     </p>
-                    <a class="btn btn-default">Learn more about it!</a>
+                    <a href="blog" class="btn btn-default">Learn more about it!</a>
+               
                     <a class="btn btn-info">Tweet it!</a>
                 </div>
             </div>
@@ -45,7 +46,7 @@
                         semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
                         et cursus nisi dapibus.
                     </p>
-                    <a href="#">Read More</a>
+                    <a href="blog">Read More</a>
                 </div>
 
                 <div class="col-md-3">
@@ -60,7 +61,7 @@
                         semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
                         et cursus nisi dapibus.
                     </p>
-                    <a href="#">Read More</a>
+                    <a href="blog">Read More</a>
                 </div>
 
                 <div class="col-md-3">
@@ -75,7 +76,7 @@
                         semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
                         et cursus nisi dapibus.
                     </p>
-                    <a href="#">Read More</a>
+                    <a href="blog">Read More</a>
                 </div>
             </div>
         </div>
