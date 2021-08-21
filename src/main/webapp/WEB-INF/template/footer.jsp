@@ -1,9 +1,4 @@
-<div class="navbar navbar-default navbar-fixed-bottom">
-    <div class="container">
-        <p class="navbar-text pull-left">Bootstrap</p>
-        <a href="#" class="btn btn-danger pull-right">Subscribe on YouTube</a>
-    </div>
-</div>
+
 
 <div class="modal fade" id="contact" role="dialog">
     <div class="modal-dialog">
