@@ -25,7 +25,7 @@
                         <li><a href="https://www.jenkins.io/">Jenkins</a></li>
                         <li><a href="https://www.docker.com/">Docker</a></li>
                         <li><a href="http://tomcat.apache.org/">Tomcat</a></li>
-                        <li><a href="hhttps://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html">Git Commands</a></li>
+                        <li><a href="https://www.atlassian.com/git/glossary">Git Commands</a></li>
                     </ul>
                 </li>
                 
