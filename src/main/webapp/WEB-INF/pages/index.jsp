@@ -5,7 +5,7 @@
 
         <div class="container">
             <div class="jumbotron">
-                <img class="featuredImg" src="resources/img/devops.jpg" width="100%"/
+                <img class="featuredImg" src="resources/img/devops.jpg" width="50%"/
                 <div align="center">
                     <h1>Hello</h1>
                    
