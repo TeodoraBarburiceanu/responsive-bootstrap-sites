@@ -41,7 +41,7 @@
 
                 <div class="col-lg-3">
                     <div class="list-group">
-                        <a href="#" class="list-group-item">
+                        <a href="https://git-scm.com/" class="list-group-item">
                             <h4 class="list-group-item-heading">Git</h4>
 
                             <p>
@@ -52,36 +52,39 @@
                                 Click here for more details about Git!
                             </p>
                         </a>
-                        <a href="#" class="list-group-item">
-                            <h4 class="list-group-item-heading">Lorem ipsum</h4>
+                        <a href="https://kinsta.com/knowledgebase/what-is-github/" class="list-group-item">
+                            <h4 class="list-group-item-heading">GitHub</h4>
 
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                                sodales id vehicula quis, hendrerit id nisl.
+                                At a high level, GitHub is a website and cloud-based service that helps developers store and
+                                manage their code, as well as track and control changes to their code. Essentially, it makes it 
+                                a lot easier for individuals and teams to use Git for version control and collaboration.
                             </p>
                         </a>
-                        <a href="#" class="list-group-item">
-                            <h4 class="list-group-item-heading">Lorem ipsum</h4>
+                        <a href="https://www.jenkins.io/doc/" class="list-group-item">
+                            <h4 class="list-group-item-heading">Jenkins</h4>
 
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                                sodales id vehicula quis, hendrerit id nisl.
+                               Jenkins is a self-contained, open source automation server which can be used to automate
+                               all sorts of tasks related to building, testing, and delivering or deploying software.
                             </p>
                         </a>
-                        <a href="#" class="list-group-item">
-                            <h4 class="list-group-item-heading">Lorem ipsum</h4>
+                        <a href="https://docs.docker.com/get-started/overview/" class="list-group-item">
+                            <h4 class="list-group-item-heading">Docker</h4>
 
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                                sodales id vehicula quis, hendrerit id nisl.
+                                Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your
+                                applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure
+                                in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying 
+                                code quickly, you can significantly reduce the delay between writing code and running it in production.
                             </p>
                         </a>
-                        <a href="#" class="list-group-item">
-                            <h4 class="list-group-item-heading">Lorem ipsum</h4>
+                        <a href="http://tomcat.apache.org/" class="list-group-item">
+                            <h4 class="list-group-item-heading">Tomcat</h4>
 
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                                sodales id vehicula quis, hendrerit id nisl.
+                                Apache Tomcat is a long-lived, open source Java servlet container that implements several core Java enterprise specs,
+                                namely the Java Servlet, JavaServer Pages (JSP), and WebSockets APIs.
                             </p>
                         </a>
                     </div>
