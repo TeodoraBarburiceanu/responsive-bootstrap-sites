@@ -38,13 +38,12 @@
                     <h3><a href="#">About this project</a></h3>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                        sodales id vehicula quis, hendrerit id nisl. Praesent dictum sem eu eros
-                        accumsan semper. Suspendisse in odio congue, ultricies nunc et, scelerisque nisi.
-                        Donec ac mauris ex. Etiam nulla lorem, hendrerit at lacinia ornare, vulputate
-                        ac felis. Ut congue, elit a dictum gravida, est metus congue mauris, sit amet
-                        semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
-                        et cursus nisi dapibus.
+                        This project is based on setting up a Continuous delivery of the application, which is this web page, using Jenkins,
+                        Git and Tomcat. The setup includes setting up the environment on Microsoft Azure  ,
+                        where I launched virtual linux servers, where the installation and setup of Jenkins, Docker and Tomcat are made.
+                        I installed and set up Tomcat and Jenkins using Docker, and thereafter I created a Jenkins Job to deploy my
+                        application over the Tomcat server.The project's goal is to ensure that the application works well after each code being 
+                        pushed and Continuous Integration/Continuous Deployment is achieved.
                     </p>
                     <a href="blog">Read More</a>
                 </div>
@@ -53,28 +52,25 @@
                     <h3><a href="#">What I learned</a></h3>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                        sodales id vehicula quis, hendrerit id nisl. Praesent dictum sem eu eros
-                        accumsan semper. Suspendisse in odio congue, ultricies nunc et, scelerisque nisi.
-                        Donec ac mauris ex. Etiam nulla lorem, hendrerit at lacinia ornare, vulputate
-                        ac felis. Ut congue, elit a dictum gravida, est metus congue mauris, sit amet
-                        semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
-                        et cursus nisi dapibus.
+                        In the process of making this project, I gained a lot of useful information for my proffesional future.
+                        I learned how to work with git, how to add and commit the changes for my project ,how to create a repository and how 
+                        to store it on my GitHub account, how to pull and push changes for my project, how to manage the branches I work on. 
+                        After that, I leraned more about Jenkins and how I can create a job ,I also learned how to use Docker, how to create 
+                        a container, and also how to use Tomcat to see my application.
+                        I learned more Linux commands that will be very useful for me in the future.
                     </p>
                     <a href="blog">Read More</a>
                 </div>
 
                 <div class="col-md-3">
                     <h3><a href="#">What challenges I encountered</a></h3>
-
+                        
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue enim,
-                        sodales id vehicula quis, hendrerit id nisl. Praesent dictum sem eu eros
-                        accumsan semper. Suspendisse in odio congue, ultricies nunc et, scelerisque nisi.
-                        Donec ac mauris ex. Etiam nulla lorem, hendrerit at lacinia ornare, vulputate
-                        ac felis. Ut congue, elit a dictum gravida, est metus congue mauris, sit amet
-                        semper felis tortor sit amet felis. Sed dictum magna non turpis consequat,
-                        et cursus nisi dapibus.
+                        As in any project, of course the things weren't always perfect. It happened to me tu run into an error when I tried to 
+                        build the job in Jenkins, or to see my application on the Tomcat server,but I tried to find a solution for them, and when
+                        I couldn't, the mentors that guided us in our project helped me find a solution for them. Also ,setting up the path of the
+                        environment variables was a bit more challenging,but i managed to do it eventually.Thanks to the people that guided us, I 
+                        managed to solve my problems and also I learned how to manage this kind of errors in the future.
                     </p>
                     <a href="blog">Read More</a>
                 </div>
