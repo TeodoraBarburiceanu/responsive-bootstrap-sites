@@ -19,7 +19,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="contact-email" class="col-lg-2 control-label">Email</label>
+                        <label for="contact-email" class="col-lg-2 control-label">E-mail</label>
 
                         <div class="col-lg-10">
                             <p>barburiceanuteodora@yahoo.com</p>
