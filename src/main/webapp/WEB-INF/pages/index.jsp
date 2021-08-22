@@ -5,9 +5,10 @@
 
         <div class="container">
             <div class="jumbotron">
+                <img class="featuredImg" src="resources/img/unnamed.jpg" width="100%"/
                 <div align="center">
                     <h1>Hello</h1>
-                    <img class="featuredImg" src="resources/img/unnamed.jpg" width="100%"/>
+                   
                     <p>My name is Teodora Barburiceanu and this is my Devops project!
                     </p>
                     <a href="blog" class="btn btn-default">Learn more about it!</a>
