@@ -49,7 +49,7 @@
                                 everything from small to very large projects with speed and efficiency.Git allows and
                                 encourages you to have multiple local branches that can be entirely independent of each 
                                 other. The creation, merging, and deletion of those lines of development takes seconds.
-                                Click here for more details about Git!
+                              
                             </p>
                         </a>
                         <a href="https://kinsta.com/knowledgebase/what-is-github/" class="list-group-item">
@@ -75,7 +75,7 @@
                             <p>
                                 Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your
                                 applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure
-                                in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying 
+                                in the same ways you manage your applications. By taking advantage of Docker's methodologies for shipping, testing, and deploying 
                                 code quickly, you can significantly reduce the delay between writing code and running it in production.
                             </p>
                         </a>
