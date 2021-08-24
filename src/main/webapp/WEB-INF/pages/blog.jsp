@@ -35,13 +35,13 @@
                                 outstanding technical and soft skills.Also, Porsche Engineering Romania offers annual summer internships in different company departments. Students can assist
                                 employees in various tasks and gain a first impression of what their own future career might be like.
                                 
-                                
-                                
+                            </p>    
+                            <p>   
                                 -----------------------------------------------------------------------------------------------------------------------------------------------------
                                 Future improvements for my project:
-                                1.
-                                2.
-                                3.
+                                1.IP of the Tomcat server
+                                2.a script that automatize the virtual machine, as when we stop it, to be deleted and a script to launch automatically the virtual machine
+                                3.cost reduction
                             </p>
                         </div>
                     </div>
