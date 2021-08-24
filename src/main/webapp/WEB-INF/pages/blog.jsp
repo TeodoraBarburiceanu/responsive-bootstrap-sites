@@ -39,6 +39,11 @@
                     </div>
                 </div>
 
+                <div class="panel panel-default">
+    <p>Future improvements</p>
+                </div>
+                
+                
                 <div class="col-lg-3">
                     <div class="list-group">
                         <a href="https://git-scm.com/" class="list-group-item">
