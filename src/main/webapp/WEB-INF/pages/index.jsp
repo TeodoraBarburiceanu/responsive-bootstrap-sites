@@ -67,7 +67,7 @@
                     <h3><a href="#">What challenges I encountered</a></h3>
                         
                     <p>
-                        As in any project, of course the things weren't always perfect. It happened to me tu run into an error when I tried to 
+                        As in any project, of course the things weren't always perfect. It happened to me to run into an error when I tried to 
                         build the job in Jenkins, or to see my application on the Tomcat server,but I tried to find a solution for them, and when
                         I couldn't, the mentors that guided us in our project helped me find a solution for them. Also ,setting up the path of the
                         environment variables was a bit more challenging,but i managed to do it eventually.Thanks to the people that guided us, I 
