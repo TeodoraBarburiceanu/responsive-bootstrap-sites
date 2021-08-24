@@ -41,8 +41,8 @@
                     <p>
                         This project is based on setting up a Continuous delivery of the application, which is this web page, using Jenkins,
                         Git and Tomcat. The setup includes setting up the environment on Microsoft Azure  ,
-                        where I launched virtual linux servers, where the installation and setup of Jenkins, Docker and Tomcat are made.
-                        I installed and set up Tomcat and Jenkins using Docker, and thereafter I created a Jenkins Job to deploy my
+                        where I launched virtual linux machines, where the installation and setup of Jenkins, Docker and Tomcat are made.
+                        I installed and set up Tomcat, Jenkins and Docker, and thereafter I created a Jenkins Job to deploy my
                         application over the Tomcat server.The project's goal is to ensure that the application works well after each code being 
                         pushed and Continuous Integration/Continuous Deployment is achieved.
                     </p>
