@@ -34,6 +34,14 @@
                                 interviews. Furthermore, five scholarships at bachelor level and 10 Porsche Engineering scholarships for the master's program are offered to students with
                                 outstanding technical and soft skills.Also, Porsche Engineering Romania offers annual summer internships in different company departments. Students can assist
                                 employees in various tasks and gain a first impression of what their own future career might be like.
+                                
+                                
+                                
+                                -----------------------------------------------------------------------------------------------------------------------------------------------------
+                                Future improvements for my project:
+                                1.
+                                2.
+                                3.
                             </p>
                         </div>
                     </div>
@@ -91,10 +99,5 @@
                 </div>
             </div>
         </div>
-<div class="panel panel-default">
-                    <div class="panel-body">
-    <p>Future improvements</p>
-                </div>
-                </div>
     </tiles:putAttribute>
 </tiles:insertDefinition>
