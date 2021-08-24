@@ -34,11 +34,16 @@
                                 interviews. Furthermore, five scholarships at bachelor level and 10 Porsche Engineering scholarships for the master's program are offered to students with
                                 outstanding technical and soft skills.Also, Porsche Engineering Romania offers annual summer internships in different company departments. Students can assist
                                 employees in various tasks and gain a first impression of what their own future career might be like.
-                                
-                            </p>  
-                             <h5>FUTURE IMPROVEMENTS FOR MY PROJECT</h5>
-                            <p>   
+                           </p> 
+                            <p>
+                                <br>
+                                <br>
                                 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                            
+                            </p>  
+                             <h4>FUTURE IMPROVEMENTS FOR MY PROJECT</h4>
+                            <p>   
+                         
                                 1.IP of the Tomcat server<br>
                                 2.a script that automatize the virtual machine, as when we stop it, to be deleted and a script to launch automatically the virtual machine<br>
                                 3.cost reduction
