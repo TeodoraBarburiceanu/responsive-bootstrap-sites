@@ -38,14 +38,7 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="panel panel-default">
-                    <div class="panel-body">
-    <p>Future improvements</p>
-                </div>
-                </div>
-                
-                
+         
                 <div class="col-lg-3">
                     <div class="list-group">
                         <a href="https://git-scm.com/" class="list-group-item">
@@ -98,6 +91,10 @@
                 </div>
             </div>
         </div>
-
+<div class="panel panel-default">
+                    <div class="panel-body">
+    <p>Future improvements</p>
+                </div>
+                </div>
     </tiles:putAttribute>
 </tiles:insertDefinition>
