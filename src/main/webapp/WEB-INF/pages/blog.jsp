@@ -41,7 +41,7 @@
                                 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                             
                             </p> 
-                            <img class="featuredImg" src="resources/img/unnamed.jpg" width="100%"/>
+                            <img class="featuredImg" src="resources/img/improve.jpg" width="100%"/>
 
                              <h4>FUTURE IMPROVEMENTS FOR MY PROJECT</h4>
                             <p>   
