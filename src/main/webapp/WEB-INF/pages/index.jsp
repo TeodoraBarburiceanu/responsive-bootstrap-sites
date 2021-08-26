@@ -6,7 +6,7 @@
         <div class="container">
             <div class="jumbotron">
 
-                <img class="featuredImg" src="resources/img/devops-logo2.jpg"  width="100%"/>
+                <img class="featuredImg" src="resources/img/gri.jpg"  width="100%"/>
 
 
                 <div align="center">
